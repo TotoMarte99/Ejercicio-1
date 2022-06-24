@@ -1,0 +1,3 @@
+La funcion de la app, es aplicada a una "exposicion de perros". Se tomara por medio de un (prompt) datos tales como: nombre de la persona y seguido nombre de la raza de su perro. Un adicional es que si la persona ingresa la raza "pitbull", saldra una alerta, la cual indica que el perro debe ingresar con bozal a la exposicion.
+ Todos los datos quedan ingresados en la consola de manera enumerada y ordenda por un (for).
+ 
